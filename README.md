@@ -72,5 +72,4 @@ Evaluated models based on:
 
 ---
 
-## 📂 Project Structure
 
